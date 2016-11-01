@@ -1,3 +1,13 @@
+extern crate numeral;
+
+use numeral::Numeral;
+
+const WORD_COUNT: u64 = 1666;
+
 fn main() {
-    println!("Hello, world!");
+    let n = 1;
+    for i in 1..WORD_COUNT {
+        print!("{} ", n.ordinal());
+    }
+    println!("");
 }

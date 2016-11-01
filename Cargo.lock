@@ -1,0 +1,14 @@
+[root]
+name = "nanogenmo2016"
+version = "0.1.0"
+dependencies = [
+ "numeral 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "numeral"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum numeral 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)" = "4b431e6d574a3998de4f2787610ae04c56f541986e9837e71dc6dc7354ce601c"
