@@ -2,7 +2,7 @@ extern crate numeral;
 
 use numeral::Numeral;
 
-const WORD_COUNT: u64 = 1666;
+const WORD_COUNT: u64 = 1667;
 
 fn main() {
     let n = 1;
