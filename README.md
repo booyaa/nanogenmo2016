@@ -18,7 +18,7 @@ To follow
 
 # The Novel
 
-To follow
+Can be found [here](https://github.com/booyaa/nanogenmo2016/blob/master/novel.md).
 
 Copyright 2016 Mark Sta Ana.
 
