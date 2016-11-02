@@ -22,7 +22,7 @@ Can be found [here](https://github.com/booyaa/nanogenmo2016/blob/master/novel.md
 
 # Change log
 
-## 0.2.0 - better formatting.
+## 0.2.0 - added seed data and better formatting
 ## 0.1.0 - initial release
 
 Copyright 2016 Mark Sta Ana.
