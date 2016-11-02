@@ -1,6 +1,6 @@
 [package]
 name = "nanogenmo2016"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Mark Sta Ana <booyaabooyaabooyaa@gmail.com>"]
 description = "My NaNoGenMo 2016 entry"
 repository = "https://github.com/booyaa/nanogenmo2016"
