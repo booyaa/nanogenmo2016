@@ -22,6 +22,7 @@ Can be found [here](https://github.com/booyaa/nanogenmo2016/blob/master/novel.md
 
 # Change log
 
+## 0.3.0 - varying sentence length. code that would make cristi cry (sorry).
 ## 0.2.0 - added seed data and better formatting
 ## 0.1.0 - initial release
 
